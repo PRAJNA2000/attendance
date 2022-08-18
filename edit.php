@@ -69,7 +69,8 @@
 				<div id="phonelHelp" class="form-text">We'll never share your number with anyone else.</div>
 		</div>
 		
-		<button type="submit" name="submit" class="btn btn-success btn-block">Save Changes</button>
+		<a href="viewrecords.php" class="btn btn-default">Back to list</button>
+		<button type="submit" name="submit" class="btn btn-success btn">Save Changes</button>
 
 	</form>
     <?php } ?>
